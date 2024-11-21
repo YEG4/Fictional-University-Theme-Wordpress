@@ -1,4 +1,3 @@
-<!-- This file is a generic fallback to ensure the website is working.-->
 <?php
 get_header();
 while (have_posts()) {
